@@ -13,6 +13,6 @@ include 'config.php';
 			}
 		
 		
-		
+		sleep($config['interval']);
 	}
 ?>

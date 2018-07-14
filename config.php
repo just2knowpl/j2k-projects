@@ -7,7 +7,7 @@ $config = array(
 	'haslo' => 'AEmxHw9Z',
 	'ID' => '9988',
 	'nazwa' => 'tescik tak o',
-	'kanal' => '409'
-
+	'kanal' => '409',
+	'interval' => '1'
 );
 ?>
