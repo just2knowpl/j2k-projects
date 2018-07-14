@@ -34,17 +34,17 @@ $config['instance']['1']['connection'] = array
 
 	//TeamSpeak3 Server Query Login
 
-		'login' 		=> 'serveradmin',
+		'login' 		=> 'test1',
 
 
 	//TeamSpeak3 Server Query Password
 
-		'password' 		=> 'x',
+		'password' 		=> 'AEmxHw9Z',
 
 
 	//Bot Nickname
 
-		'bot_name' 		=> 'GWM Administrator',
+		'bot_name' 		=> 'tescik tak o',
 
 
 	//Bot Default Channel
