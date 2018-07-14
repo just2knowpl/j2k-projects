@@ -9,7 +9,7 @@ include 'lib/ts3admin.class.php';
 		while (1)
 			{
 				$core = $ts3connect->getElement('data',$ts3connect->whoAmI());
-				$ts3connect->clientMove($core['client_id'],id kanału);	
+				$ts3connect->clientMove($core['client_id'],$config['kanal']);	
 			}
 		
 		
