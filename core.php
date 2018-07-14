@@ -1,6 +1,6 @@
 <?php
 include 'lib/ts3admin.class.php';
-	
+include 'config.php';
 	$ts3connect = new ts3admin($config['IP'], $config['port']);
 	if ($ts3connect->getElement('success', $ts3connect->connect())){
 		$ts3connect->login($config['login'],$config['haslo']);
